@@ -89,7 +89,7 @@ Quick start options:
 
 :rocket: You can deploy your own version of the template to Genezio with one click:
 
-[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/creativetimofficial/material-kit-react&utm_source=github&utm_medium=referral&utm_campaign=github-creativetim&utm_term=deploy-project&utm_content=button-head)
+[![Deploy to Genezio](https://raw.githubusercontent.com/Genez-io/graphics/main/svg/deploy-button.svg)](https://app.genez.io/start/deploy?repository=https://github.com/Bhumika0201/ssgk-oba-poc&utm_source=github&utm_medium=referral&utm_campaign=github-bhumika&utm_term=deploy-project&utm_content=button-head)
 
 ## Documentation
 
